@@ -6,8 +6,4 @@
     <div class="w-48 h-[1px] bg-white/10 mt-8 relative overflow-hidden">
         <div id="loader-bar" class="absolute inset-y-0 left-0 bg-accent w-0"></div>
     </div>
-
-    <div class="mt-4 font-mono text-[10px] uppercase tracking-[0.4em] text-gray-500">
-        {{ __('portfolio.loading') }} <span id="loader-perc">0</span>%
-    </div>
 </div>
